@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Primer_React_App/static/css/main.dd919a01.css",
+    "main.js": "/Primer_React_App/static/js/main.6ea97c0e.js",
+    "static/js/787.a9cadf70.chunk.js": "/Primer_React_App/static/js/787.a9cadf70.chunk.js",
+    "static/media/logo2.png": "/Primer_React_App/static/media/logo2.f96208c6e78cf7ec947d.png",
+    "index.html": "/Primer_React_App/index.html",
+    "main.dd919a01.css.map": "/Primer_React_App/static/css/main.dd919a01.css.map",
+    "main.6ea97c0e.js.map": "/Primer_React_App/static/js/main.6ea97c0e.js.map",
+    "787.a9cadf70.chunk.js.map": "/Primer_React_App/static/js/787.a9cadf70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd919a01.css",
+    "static/js/main.6ea97c0e.js"
+  ]
+}
